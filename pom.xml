@@ -325,6 +325,6 @@
 	<tcpmon.feature.version>1.0.0</tcpmon.feature.version>
 	<qos.feature.version>2.1.0-SNAPSHOT</qos.feature.version>
 
-	<project.scm.id>my-scm-server</project.scm.id>
+	<!--project.scm.id>my-scm-server</project.scm.id-->
     </properties>
 </project>
