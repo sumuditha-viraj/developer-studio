@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-DeveloperStudio
-===============
-
-WSO2 Developer Studio IDE Public Repository
-=======
 #WSO2 Developer Studio Kernel
 
 WSO2 Developer Studio has moved in to a kernel-based model with its new architecture revamp from version 4.0.0. WSO2 Developer Studio Kernel provides a set of common plugins, which can be used to develop Eclipse plugins for WSO2 products that are based on WSO2 Carbon platform.  All the product specific plugins will use the Developer Studio Kernel as the base for their respective tooling implementation.
@@ -28,4 +22,3 @@ Developer Studio Kernel will provide comprehensive support for developing tools 
 WSO2 developers can be contacted via the mailing lists:
 * WSO2 Developers List : dev@wso2.org
 * WSO2 Architecture List : architecture@wso2.org
->>>>>>> upstream/master
